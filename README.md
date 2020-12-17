@@ -2,7 +2,7 @@
 # Peridot
 A fully featured Vue 2.6 PWA boilerplate
 ![Screenshot](./docs/readme_resources/homepage.png)
-
+# Technologies 
 ## Features:
 * Progressive Web App (PWA) with Service Worker
 * Code splitting and async component/route loading
